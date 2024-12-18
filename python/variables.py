@@ -30,4 +30,11 @@ print(type(b))
 # string variables can be declared either by using single or double quotes:
 # Variable names are case-sensitive
 
+# Many values to multiple variables
+# python allows you to assign values to multiple variables in one line:
+x, y, z = "Orange", 'Banana', 'Cherry'
+print(x)
+print(y)
+print(z)
+
 
